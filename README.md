@@ -50,6 +50,30 @@ Llama-2-70B     | Llama 2 license   | ✅               | 2,000B                
 Llama-2-70B-chat| Llama 2 license   | ✅               | 2,000B                     | 62.4
 
 
+## Evaluation
+
+### Foundation Models
+
+### Fine-tuned Models
+
+### RAG System
+
+
+
+#### References
+- [1] [Benchmarking Retrieval-Augmented Generation for Medicine
+](https://arxiv.org/abs/2402.13178)
+
+
+
+
+## Use cases
+
+- Retrieval Augmented Generation
+  - Code Generation: `rag.ipynb`
 
 ## References
 - [1] https://huggingface.co/blog/llama2
+- [2] https://github.com/Teddy-XiongGZ/MIRAGE
+- [3] (Benchmarking Retrieval-Augmented Generation for Medicine
+)[https://arxiv.org/abs/2402.13178]
